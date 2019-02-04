@@ -1,0 +1,1 @@
+Generate encrypted QR codes
